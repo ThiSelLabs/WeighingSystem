@@ -1,0 +1,28 @@
+﻿CREATE TABLE [dbo].[WeightTransaction]
+(
+	[TicketType] NVARCHAR(3) NOT NULL, 	
+	[TicketNo] INT NOT NULL , 
+	[Seq] SMALLINT NOT NULL, 
+    [FullTicketNo] NVARCHAR(20) NULL, 
+    [VehicleNo] NVARCHAR(5) NULL, 
+    [Driver] VARCHAR(100) NULL, 
+    [DriverIC] VARCHAR(20) NULL, 
+    [AccNo] [dbo].[d_AccNo] NULL, 
+    [ItemCode] NVARCHAR(10) NULL, 
+    [ItemDesc] NVARCHAR(150) NULL, 
+    [DOTitle1] NVARCHAR(150) NULL, 
+    [DOTitle2] NVARCHAR(150) NULL, 
+    [AmountPrefix] NVARCHAR(5) NULL, 
+    [Amount] [dbo].[d_Money] NULL, 
+    [FirstWeight] DECIMAL(18, 1) NULL, 
+    [FirstWeightTime] DATETIME NULL, 
+    [FirstWeightAuto] BIT NULL, 
+    [SecondWeight] DECIMAL(18, 1) NULL, 
+    [SecondWeightTime] DATETIME NULL, 
+    [SecondWeightAuto] BIT NULL, 
+    [NetWeight] DECIMAL(18, 1) NULL, 
+    [NetWeightAuto] BIT NULL, 
+	[WeightBy] NVARCHAR(150) NULL, 
+    [TicketCreateDate] DATETIME NULL, 
+    PRIMARY KEY ([TicketType], [TicketNo], [Seq])
+)

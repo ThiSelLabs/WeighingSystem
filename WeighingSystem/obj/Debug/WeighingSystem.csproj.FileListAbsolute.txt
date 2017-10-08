@@ -1,0 +1,10 @@
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\bin\Debug\WeighingSystem.exe.config
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\bin\Debug\WeighingSystem.exe
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\bin\Debug\WeighingSystem.pdb
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.frmMain.resources
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.Properties.Resources.resources
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.csproj.GenerateResource.Cache
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.exe
+C:\Users\Thiruselvam\documents\visual studio 2017\Projects\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.pdb
